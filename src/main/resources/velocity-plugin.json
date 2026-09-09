@@ -1,0 +1,8 @@
+{
+  "id": "kaelorvynban",
+  "name": "KaelorvynBan",
+  "version": "1.0.0",
+  "description": "Velocity 中文封禁插件",
+  "authors": ["Kael"],
+  "main": "com.kael.punish.KaelorvynBan"
+}
